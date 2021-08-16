@@ -161,3 +161,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Note app based on your GitHub Gists
+
+# 🗓️🗒️
+
+Note app Notion | RoamResearch killer
+
+Markdown mail app
+
+Let’s commit be an note history
+
+Search bar in Note App Filename = Tag ?
+
+Share my Gist Profile
+
+Lighthouse PWA React Native ?
+
+Pocket API in Note App
